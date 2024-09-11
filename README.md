@@ -5,8 +5,8 @@
 
 
 ## DEMO
-Link de netlify : 
+Link de netlify : https://ejercicio2dereact.netlify.app/
 ## Cloná 
-
+https://github.com/EugeSan-hub/ejercicio2react.git
 ## Autor 👩🏻‍💻
 Eugenia Sansierra

@@ -1,8 +1,13 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Holamundo from "./components/HolaMundo"
+
 function App() {
  
 
   return (
-    <main></main>
+    <main>
+      <Holamundo nombre = "Mi amigo"></Holamundo>
+    </main>
   )
 }
 
